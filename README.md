@@ -1,1 +1,2 @@
-# UAV image_algorithm -  high-resolution aerial imagery classification.
+# UAV image_algorithm 
+High-resolution aerial imagery classification.
